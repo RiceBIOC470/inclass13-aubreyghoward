@@ -1,7 +1,7 @@
 %Inclass 13
 %GB comments
 1a 70 To use this method, it is best to use a larger radial value in the morphological structuring element. Change  to 130+ and the resulting image is much more reasonable. 
-1b 100 
+1b 100 Threshold is pretty low, but its fine for the question. 
 1c 100
 1d 100
 2a 100
